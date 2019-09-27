@@ -1,0 +1,36 @@
+.cl-center{    
+    text-align: center;
+}
+
+.timer{
+    margin-left: 40%;
+    font-style: oblique;
+}
+.tabela-carga{
+    border-radius: 15px;
+    border-style: hidden;
+
+}
+#cargaSelecionada{
+    font-style: italic;
+}
+.footer {
+    width:100%;
+    position: fixed;
+    bottom: 0;  
+    height: 60px;;
+    background-color: black;
+    color: white;   
+    font-style: normal;
+    text-align: start;
+    
+
+}
+.info-footer{
+    margin-top: 20px;
+    font-style: normal;
+    font-family: inherit;
+    font-size: 12px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
